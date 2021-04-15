@@ -2,6 +2,8 @@
 IS4302 Blockchain and Distributed Ledger Technologies. A Blockchain-based Carbon Credit Ecosystem that facilitates the
 exchange of carbon credits.
 
+Full Web-App at: https://github.com/ErnestChng/is4302-app
+
 ## 01 Use Case Description
 
 Over the years, there has been exponential growth in carbon emissions worldwide. With no signs of slowing down, the
